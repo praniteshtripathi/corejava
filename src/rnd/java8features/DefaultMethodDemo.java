@@ -1,4 +1,4 @@
-package md.java8features;
+package rnd.java8features;
 
 public class DefaultMethodDemo {
 

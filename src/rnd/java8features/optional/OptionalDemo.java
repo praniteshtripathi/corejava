@@ -1,4 +1,4 @@
-package md.java8features.optional;
+package rnd.java8features.optional;
 import java.util.Optional; 
 public class OptionalDemo {
 

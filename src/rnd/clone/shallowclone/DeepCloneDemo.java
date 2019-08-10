@@ -1,4 +1,4 @@
-package md.clone.shallowclone;
+package rnd.clone.shallowclone;
 
 public class DeepCloneDemo {
 

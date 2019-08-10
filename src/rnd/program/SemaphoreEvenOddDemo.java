@@ -1,4 +1,4 @@
-package md.program;
+package rnd.program;
 
 import java.util.concurrent.Semaphore;
 //Thread print even odd alternatively

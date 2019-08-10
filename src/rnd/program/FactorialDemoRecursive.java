@@ -1,4 +1,4 @@
-package md.program;
+package rnd.program;
 
 public class FactorialDemoRecursive {
 

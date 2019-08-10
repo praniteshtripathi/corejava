@@ -1,4 +1,4 @@
-package md.program;
+package rnd.program;
 
 import java.util.HashMap;
 import java.util.Map;

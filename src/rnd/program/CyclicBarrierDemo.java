@@ -1,4 +1,4 @@
-package md.program;
+package rnd.program;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

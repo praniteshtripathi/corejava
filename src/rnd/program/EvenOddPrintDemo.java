@@ -1,4 +1,4 @@
-package md.program;
+package rnd.program;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.Semaphore;

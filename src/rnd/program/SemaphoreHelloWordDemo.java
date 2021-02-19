@@ -30,8 +30,9 @@ public class SemaphoreHelloWordDemo {
 }
 
 class Task{
-	private static Semaphore word= new Semaphore(0);
-	private static Semaphore hello= new Semaphore(1);
+	private static Semaphore hello= new Semaphore(0);
+	private static Semaphore word= new Semaphore(1);
+	
 	public void hello(){
 		try{
 			hello.acquire();

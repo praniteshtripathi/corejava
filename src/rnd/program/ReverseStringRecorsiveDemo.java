@@ -5,7 +5,7 @@ public class ReverseStringRecorsiveDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println(revStrRecursive("1234"));
+		System.out.println(revStrRecursive(""));
 
 
 	}

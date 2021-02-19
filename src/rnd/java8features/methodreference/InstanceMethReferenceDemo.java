@@ -21,8 +21,8 @@ public class InstanceMethReferenceDemo {
 		        .stream()
 		        .sorted(String::compareTo)
 		        .collect(Collectors.toList());
-		 
-		System.out.println(sortedAlt);
+		sortedAlt.forEach(System.out::print);
+		//System.out.println(sortedAlt);
 	}
 
 }

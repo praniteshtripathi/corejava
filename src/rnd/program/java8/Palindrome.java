@@ -2,12 +2,12 @@ package rnd.program.java8;
 
 import java.util.stream.Stream;
 
-public class Palendrom {
+public class Palindrome {
     public static void main(String args[]){
      String str="This is a madam . Madam is going market";
-        Stream.of(str.split(" ")).filter(v->isPalendrom(v)).forEach(System.out::println);
+        Stream.of(str.split(" ")).filter(v->isPalindrome(v)).forEach(System.out::println);
     }
-    public static boolean isPalendrom(String str){
+    public static boolean isPalindrome(String str){
         char [] chArr= str.toCharArray();
         int len=chArr.length;
         int j=len-1;

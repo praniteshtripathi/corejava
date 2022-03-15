@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 
 public class GroupSalaryByDept {
     public static void main(String args[]){
+
         List<Employee> empList= new ArrayList<>();
         Employee e1= new Employee(1,"sales",1000);
         Employee e2= new Employee(2,"sales",2000);

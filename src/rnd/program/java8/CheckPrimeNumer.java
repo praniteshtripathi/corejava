@@ -2,7 +2,7 @@ package rnd.program.java8;
 
 import java.util.stream.IntStream;
 
-public class CheckPrimeNumer {
+class CheckPrimeNumber {
     public static void main(String args[]){
     // print prime No. between 0 to 100;
         IntStream.range(1,100).filter(n->isPrime(n)).forEach(System.out::println);

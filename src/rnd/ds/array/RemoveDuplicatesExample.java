@@ -11,6 +11,7 @@ public class RemoveDuplicatesExample {
             // This array has duplicate elements
             System.out.println(Arrays.toString(origArray));
 
+
             Integer[] tempArray = removeDuplicates(origArray);
 
             // Verify the array content

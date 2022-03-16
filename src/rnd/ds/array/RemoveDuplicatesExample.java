@@ -16,6 +16,7 @@ public class RemoveDuplicatesExample {
 
             // Verify the array content
             System.out.println(Arrays.toString(tempArray));
+            System.out.println("-----------");
         }
 
         private static Integer[] removeDuplicates(Integer[] origArray) {
